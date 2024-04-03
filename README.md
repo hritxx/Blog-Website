@@ -31,7 +31,7 @@ This is a full-stack blog website built using React, Node.js, Express, MongoDB, 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/blog-website.git
+   git clone https://github.com/hritxx/blog-website.git
    ```
 
 2. Navigate to the backend directory and install dependencies:
